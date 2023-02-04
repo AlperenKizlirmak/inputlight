@@ -1,0 +1,20 @@
+:root{
+ --bgColor: white;
+ --inputColor: #00b896;
+ --outlineColor: dodgerblue;
+ --beamColor: yellow;
+ --spacer: 1rem;
+}
+
+* {
+ box-sizing: border-box;
+}
+
+html, body {
+ height: 100%;
+}
+
+body{
+ display: grid;
+ place-items: center;
+}
